@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.main {
+  text-align: left;
+  margin-left: 30%;
+}
+.root {
+  max-width: 100;
+}
+
+.filter {
+  display: "inline";
+  justify-content: "center";
+}
+
+.container {
+  width: 50%;
+  margin-left: 30%;
+}
