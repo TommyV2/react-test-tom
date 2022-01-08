@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'healthcare-for-millennials-frontend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_357113C686194CEAAE169B54302BAE76 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_04840997A2C0496E8438F173AEB11FF3 }}
           package: .
